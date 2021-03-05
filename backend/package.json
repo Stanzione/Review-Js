@@ -1,0 +1,11 @@
+{
+  "name": "Review-Js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Stanzione/Review-Js.git",
+  "author": "Stanzione <jvslisboa@poli.ufrj.br>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
